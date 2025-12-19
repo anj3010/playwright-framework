@@ -1,0 +1,1 @@
+[{"values":["dev"],"name":"Test Environment"},{"values":["https://example.com"],"name":"Base URL"},{"values":["https://api.example.com"],"name":"API Base URL"},{"values":["chromium"],"name":"Browser"},{"values":["v20.19.4"],"name":"Node Version"}]
